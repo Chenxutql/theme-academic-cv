@@ -3,7 +3,7 @@ title: 'iManta: a Manta ray-inspired Aerial Robot'
 summary: "**(Video)** An airship robot that mimics the manta ray’s movement and is suitable for indoor-environment applications"
 #tags:
 #  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2017-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ''
@@ -51,7 +51,7 @@ The desire for **“Flying Through the Sea of Air”** is a vision that has cons
 
 ![jpg](ma3.jpg "iManta performs high manoeuvring motions")
 
-![jpg](ma4.jpg "iManta shown in “Feng Ru Cup” Science and Technology Festival (Beijing, China)")
+![jpg](ma4.jpg)
 
 # Features
 
