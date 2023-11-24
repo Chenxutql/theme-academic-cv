@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-01-20T00:00:00Z"
-doi: "10.1088/1742-6596/1061/1/012019"
+doi: "10.1109/SII55687.2023.10039222"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-20T00:00:00Z"
