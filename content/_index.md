@@ -50,41 +50,40 @@ sections:
 #      username: admin
 #    design:
 #      columns: '1'
-  - block: experience
-    content:
-      title: Experience
+#  - block: experience
+#    content:
+#      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+#      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+#      items:
+#        - title: CEO
+#          company: GenCoin
+#          company_url: ''
+#          company_logo: org-gc
+#          location: California
+#          date_end: ''
+#          description: |2-
+#              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+#              * Analysing
+#              * Modelling
+#              * Deploying
+#        - title: Professor of Semiconductor Physics
+#          company: University X
+#          company_url: ''
+#          company_logo: org-x
+#          location: California
+#          date_start: '2016-01-01'
+#          date_end: '2020-12-31'
+#          description: Taught electronic engineering and researched semiconductor physics.
+#    design:
+#      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -98,33 +97,70 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - certificate_url: ""
+          date_end: ""
+          date_start: 2022-09-20
+          description: 
+          organization: Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR)
+          organization_url: https://saiseireha.com/
+          title: Best Award, the 4th Conference of the Japanese Society for Regenerative Medicine and Rehabilitation (JSRMR 2022)
+          url: https://system.mech.kyushu-u.ac.jp/jsrmr2022/index.html
+        - certificate_url: ""
+          date_end: ""
+          date_start: 2019-06-30
+          description: ""
+          organization: Beihang University
+          organization_url: 
+          title: Excellent Graduate of Beihang University
+          url: 
+        - certificate_url: ""
+    date_end: ""
+    date_start: 2018-05-01
+    description: ""
+    organization: Beihang University
+    organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
+    title: 1th Prize (top 3%), the 28th "Feng Ru Cup" Competition of Academic and
+      Technological Works
+    url: https://www-fengrubei-net.e1.buaa.edu.cn/
+        - certificate_url: ""
+    date_end: ""
+    date_start: 2018-07-01
+    description: ""
+    organization: Beijing Municipal Science and Technology Commission
+    organization_url: http://bj.chuangqingchun.net/
+    title: 1th Prize (top 10%), the 9th “Challenge Cup” Science and Technology Works Competition (Beijing)
+    url: http://bj.chuangqingchun.net/
+  #- certificate_url: ""
+    #date_end: ""
+    #date_start: 2018-10-01
+    #description: ""
+    #organization: 优干
+    #organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
+    #title: Excellent Student Cadre of Beihang University for the 2017-2018 academic year
+    #url: ""
+  #- certificate_url: ""
+    #date_end: ""
+    #date_start: 2017-10-01
+    #description: ""
+    #organization: 三好
+    #organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
+    #title: Merit Student of Beihang University for the 2015-2017 academic year
+    #url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2017-08-01
+    description: 
+    organization: National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction Commission
+    organization_url: ""
+    title: 3rd Prize, the 10th National University Student Social Practice and
+      Science Contest on Energy Saving & Emission Reduction
+    url: http://www.jienengjianpai.org/
+
+
+
+
+
+
     design:
       columns: '2'
   - block: collection
