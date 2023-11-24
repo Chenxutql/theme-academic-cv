@@ -139,6 +139,38 @@ sections:
           url: http://www.jienengjianpai.org/
     design:
       columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: Art Prizes
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ""
+          date_end: ""
+          date_start: 2017-04-21
+          description: 
+          organization: World Association of Marching Show Bands
+          organization_url: 
+          title: Champion, Taiwan International Marching Band Competition 2017
+          url: 
+        - certificate_url: ""
+          date_end: ""
+          date_start: 2018-11-01
+          description: ""
+          organization: Tsinghua University
+          organization_url: 
+          title: Golden Prize, Beijing College Students Music Festival (Wind Ensemble
+      Competition)
+          url: 
+    design:
+      columns: '2'
   - block: collection
     id: posts
     content:
