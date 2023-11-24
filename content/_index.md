@@ -139,7 +139,7 @@ sections:
           url: http://www.jienengjianpai.org/
     design:
       columns: '2'
-  - block: accomplishments
+  - block: accomplishments 1
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: Art Prizes
@@ -166,8 +166,7 @@ sections:
           description: ""
           organization: Tsinghua University
           organization_url: 
-          title: Golden Prize, Beijing College Students Music Festival (Wind Ensemble
-      Competition)
+          title: Golden Prize, Beijing College Students Music Festival (Wind Ensemble Competition)
           url: 
     design:
       columns: '2'
