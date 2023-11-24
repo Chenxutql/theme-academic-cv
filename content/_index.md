@@ -170,7 +170,7 @@ sections:
           url: 
     design:
       columns: '2'
-  - block: collection
+  - block: posts
     id: posts
     content:
       title: Extracurricular Activities
@@ -197,7 +197,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
+  - block: projects
     id: projects
     content:
       title: Projects
@@ -249,7 +249,7 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  - block: collection
+  - block: publications
     content:
       title: Publications
       text: |-
