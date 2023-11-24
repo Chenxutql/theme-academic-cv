@@ -114,53 +114,29 @@ sections:
           title: Excellent Graduate of Beihang University
           url: 
         - certificate_url: ""
-    date_end: ""
-    date_start: 2018-05-01
-    description: ""
-    organization: Beihang University
-    organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
-    title: 1th Prize (top 3%), the 28th "Feng Ru Cup" Competition of Academic and
-      Technological Works
-    url: https://www-fengrubei-net.e1.buaa.edu.cn/
+          date_end: ""
+          date_start: 2018-05-01
+          description: ""
+          organization: Beihang University
+          organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
+          title: 1th Prize (top 3%), the 28th "Feng Ru Cup" Competition of Academic and Technological Works
+          url: https://www-fengrubei-net.e1.buaa.edu.cn/
         - certificate_url: ""
-    date_end: ""
-    date_start: 2018-07-01
-    description: ""
-    organization: Beijing Municipal Science and Technology Commission
-    organization_url: http://bj.chuangqingchun.net/
-    title: 1th Prize (top 10%), the 9th “Challenge Cup” Science and Technology Works Competition (Beijing)
-    url: http://bj.chuangqingchun.net/
-  #- certificate_url: ""
-    #date_end: ""
-    #date_start: 2018-10-01
-    #description: ""
-    #organization: 优干
-    #organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
-    #title: Excellent Student Cadre of Beihang University for the 2017-2018 academic year
-    #url: ""
-  #- certificate_url: ""
-    #date_end: ""
-    #date_start: 2017-10-01
-    #description: ""
-    #organization: 三好
-    #organization_url: https://www-fengrubei-net.e1.buaa.edu.cn/
-    #title: Merit Student of Beihang University for the 2015-2017 academic year
-    #url: ""
-  - certificate_url: ""
-    date_end: ""
-    date_start: 2017-08-01
-    description: 
-    organization: National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction Commission
-    organization_url: ""
-    title: 3rd Prize, the 10th National University Student Social Practice and
-      Science Contest on Energy Saving & Emission Reduction
-    url: http://www.jienengjianpai.org/
-
-
-
-
-
-
+          date_end: ""
+          date_start: 2018-07-01
+          description: ""
+          organization: Beijing Municipal Science and Technology Commission
+          organization_url: http://bj.chuangqingchun.net/
+          title: 1th Prize (top 10%), the 9th “Challenge Cup” Science and Technology Works Competition (Beijing)
+          url: http://bj.chuangqingchun.net/
+        - certificate_url: ""
+          date_end: ""
+          date_start: 2017-08-01
+          description: 
+          organization: National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction Commission
+          organization_url: ""
+          title: 3rd Prize, the 10th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction
+          url: http://www.jienengjianpai.org/
     design:
       columns: '2'
   - block: collection
