@@ -6,7 +6,7 @@ summary: "**(Video)** An airship robot that mimics the manta ray’s movement an
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+#external_link: ''
 
 image:
   caption: ""
@@ -14,15 +14,15 @@ image:
   filename: featured.png
   preview_only: true
 
-links:
+#links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -53,7 +53,7 @@ The desire for **“Flying Through the Sea of Air”** is a vision that has cons
 
 ![jpg](ma4.jpg "iManta shown in “Feng Ru Cup” Science and Technology Festival (Beijing, China)")
 
-## Features
+# Features
 
 * Energy-efficient
 * Noiseless
@@ -62,7 +62,7 @@ The desire for **“Flying Through the Sea of Air”** is a vision that has cons
 
 ![jpg](ma5.jpg "The interaction between humans and iManta")
 
-## Future Applications
+# Future Applications
 
 * Interactable and dynamic advertising media
 * Robot therapy (as comfort pets)
