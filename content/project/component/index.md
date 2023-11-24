@@ -1,9 +1,9 @@
 ---
-title: Terrain-adaptive Aerial Robot with Legged Landing Gear
-summary: "**(Video)** A aerial robot features robotic landing gear, which can be automatically adjusted to keep the robot horizontal during landing"
+title: Knowledge Base Management System for Components Selection (Chinese)
+summary: Course design of Industrial Engineering Department, Beihang University
 #tags:
 #  - Deep Learning
-date: '2018-05-20T00:00:00Z'
+date: '2017-05-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -32,24 +32,12 @@ url_video: ''
 # slides: example
 ---
 
-**Members:** Mingyang Xu, Yunkai Qi, Jin Zhu, Wanhe An, Dada Hu, Jiaxuan Zhang, Shiqi Sun
+**Members:** Mingyang Xu
 
-**Supervisor:** Prof. Tianmiao Wang
+**Supervisor:** Prof. Guijiang Duan
 
-![png](la0.png)
+# Overview
 
-# Abstract
+The objective of this study is to develop a software system that can assist in **the selection of appropriate components for engineering**. Since component selection is a critical task in the design process, it can be challenging due to the variety of components available, their specifications, and specific application requirements. To address this issue, **the proposed system uses a knowledge base that captures the expertise of domain experts, including component specifications, performance data, and application requirements.** The system also employs a reasoning mechanism that supports the selection of suitable components based on user-defined criteria. Finally, we evaluated the effectiveness of the system through case studies to measure its accuracy in providing component selection recommendations. The developed knowledge base management system is expected to improve the efficiency and accuracy of component selection in the engineering design process. By automating and streamlining the component selection process, the system could reduce the time and effort required to select the most appropriate components for a given application. Therefore, the system has the potential to benefit various industries, including electronics, manufacturing, and automotive, by providing reliable and efficient component selection recommendations.
 
-Vertical take-off and landing aircrafts (VTOLs) are widely used in transport and rescue tasks because of their ability to perform vertical takeoffs and landings. **However, the possibility of off-field landings is severely limited by non-flat landing areas. Some example landing areas include great slopes, rocky grounds, and stairs.** VTOL-type aerial robots that use conventional skids or landing wheels have poor ability to adapt to uneven and steep terrain, causing safety problems and economic losses. Aiming at the above limitations, we proposed a novel terrain-adaptive aerial robot. This aerial robot features robotic landing gear, which consists of four legs. Based on the force, attitude, and height data collected by the sensors, the landing gear could be automatically adjusted to conform closely with the ground, thus **keeping the robot horizontal and balanced during landing**. Finally, the laboratory experiment test and outfield flight test have been done to verify the results of the design and theory modelling.
-
-# Video
-
-{{< youtube uX7zKS1Cb6I >}}
-
-![jpg](la1.jpg "Overview of developed prototypes")
-
-![jpg](la2.jpg "Process of the terrain-adaptive landing mode")
-
-
-
-![jpg](group.jpg)
+![png](co1.png)
