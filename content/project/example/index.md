@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: 'iManta: a Manta ray-inspired Aerial Robot'
+summary: "**(Video)** An airship robot that mimics the manta ray’s movement and is suitable for indoor-environment applications"
 #tags:
 #  - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -9,8 +9,10 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
+  filename: featured.png
+  preview_only: true
 
 links:
   - icon: twitter
@@ -27,15 +29,42 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+![](ma0.jpg)
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+# Motivation:
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+The desire for **“Flying Through the Sea of Air”** is a vision that has constantly motivated us to explore the design of aerial robots since we noticed that **the manta ray swims through the water as a bird flies through the air**. Most conventional aerial robots are driven by propellers. However, the use of propellers is accompanied by noise and danger due to the high-speed rotation. Once the operating propeller accidentally touches persons or objects, injury or economic loss may result, which makes the propeller-based aerial robots usually unsuitable for indoor environment application. Biomimetics in propulsion inspires us to solve the above limitation. 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+![](ma2_2.jpg)
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+{{< youtube 5PalNpcQS3s >}}
+
+![](ma2_1.jpg "The movement of manta rays")
+
+# Overview:
+
+**In this study, we proposed an aerial robot that mimics the manta ray’s movement and is suitable for indoor-environment applications.** The robot mainly comprises a lightweight helium-filled ballonet, a noiseless flapping-wing actuator, a pitch control mechanism, and a tail-like rudder. In the flight tests, the prototypes not only demonstrated controlled and flexible flight but also were able to **execute manta-like high manoeuvring motions**. Long operation time was ensured due to the helium ballonet body, low-frequency flapping wing, and low-power electronics. Overall, the developed bioinspired robot is featured as energy-efficient, noiseless, and harmless for human-robot interaction. It can further bring new applications for aerial robotics, such as robot therapy (as comfort pets), long-time surveillance and event observation, and interactable and dynamic advertising media.
+
+![]()
+
+![](ma3.jpg "iManta performs high manoeuvring motions")
+
+![](ma4.jpg "iManta shown in “Feng Ru Cup” Science and Technology Festival (Beijing, China)")
+
+## Features
+
+* Energy-efficient
+* Noiseless
+* Suitable for indoor environment
+* **Harmless for human-robot interaction**
+
+![](ma5.jpg "The interaction between humans and iManta")
+
+## Future Applications
+
+* Interactable and dynamic advertising media
+* Robot therapy (as comfort pets)
+* Long-time surveillance and event observation
