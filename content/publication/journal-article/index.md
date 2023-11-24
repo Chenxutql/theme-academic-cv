@@ -28,10 +28,10 @@ publication_types: ["article-journal"]
 publication: "Journal of Robotics and Mechatronics (JRM)"
 publication_short: "In *Journal of Robotics and Mechatronics (JRM)*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: As the population ages, the number of elderly people suffering from systemic diseases such as stroke increases. To address this problem, various wearable walking assistive robots have been developed to promote physical exercise for stroke prevention. Wearable assistive robots have shown the ability to improve human mobility. However, most of these robots are heavy, bulky, and impractical. In this study, we developed a compact ankle assistive robot for elderly users to promote walking exercise. By informing the user of correct motion and timing, the robot can guide the user to achieve a healthy gait by only assisting their ankle joint. The robot provides faster-than-ankle motion to allow the user to feel supported while walking. Users can adjust the robot’s assistance parameters through a graphical user interface (GUI) according to their demands. Furthermore, we proposed a gait-adaptive method for ankle assistive robots to adapt to the user’s changing gait. Hence, the robot can automatically adjust the parameters to provide more accurate walking assistance. Finally, the results of an evaluation experiment demonstrated the positive feasibility of human gait adaptation. The proposed methods have the advantages of low cost and easy implementation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -40,14 +40,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,22 +61,22 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+#slides: example
+#---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
