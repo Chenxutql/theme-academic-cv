@@ -1,9 +1,9 @@
 ---
-title: Terrain-adaptive Aerial Robot with Legged Landing Gear
-summary: "**(Video)** A aerial robot features robotic landing gear, which can be automatically adjusted to keep the robot horizontal during landing"
+title: Quadrotor Based Launch System for Fixed-wing Aircraft
+summary: "**(Video)** A multicopter-based launch system for fix-wing aircrafts was developed to provide them with a VTOL capability"
 #tags:
 #  - Deep Learning
-date: '2018-05-20T00:00:00Z'
+date: '2017-07-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -32,24 +32,10 @@ url_video: ''
 # slides: example
 ---
 
-**Members:** Mingyang Xu, Yunkai Qi, Jin Zhu, Wanhe An, Dada Hu, Jiaxuan Zhang, Shiqi Sun
-
-**Supervisor:** Prof. Tianmiao Wang
-
-![png](la0.png)
-
 # Abstract
 
-Vertical take-off and landing aircrafts (VTOLs) are widely used in transport and rescue tasks because of their ability to perform vertical takeoffs and landings. **However, the possibility of off-field landings is severely limited by non-flat landing areas. Some example landing areas include great slopes, rocky grounds, and stairs.** VTOL-type aerial robots that use conventional skids or landing wheels have poor ability to adapt to uneven and steep terrain, causing safety problems and economic losses. Aiming at the above limitations, we proposed a novel terrain-adaptive aerial robot. This aerial robot features robotic landing gear, which consists of four legs. Based on the force, attitude, and height data collected by the sensors, the landing gear could be automatically adjusted to conform closely with the ground, thus **keeping the robot horizontal and balanced during landing**. Finally, the laboratory experiment test and outfield flight test have been done to verify the results of the design and theory modelling.
+Missions for long-endurance fixed-wing aircraft have been limited by an inability to take off from constricted spaces. Although vertical take-off and landing (VTOL) aircrafts can hover, take off, and land vertically without relying on a runway, they usually present less aerodynamic efficiency, duration of flight, and carrying capacity because they carry additional motors, batteries and propellers. Therefore, **we developed a multicopter-based launch system for fix-wing aircrafts to provide them with a VTOL capability.** The fix-wing aircraft to be launched is attached to the underside of the system by the ground crew. The launch system then carries the attached aircraft up into the air. Once at a sufficient altitude, the launch system revs its engines up to a certain speed and then releases the attached aircraft by ejection system. After the release, the launch system returns to the ground crew. Finally, the aircraft can be recovered by a parachute after conducting the task. **The multicopter-based launch system can enhance the capability of fix-wing aircrafts to take off from complex terrain.**
 
 # Video
 
-{{< youtube uX7zKS1Cb6I >}}
-
-![jpg](la1.jpg "Overview of developed prototypes")
-
-![jpg](la2.jpg "Process of the terrain-adaptive landing mode")
-
-
-
-![jpg](group.jpg)
+{{< youtube xFF3N7h-STA >}}

@@ -21,7 +21,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2018)"
-publication_short: "*International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2018)*"
+publication_short: "International Conference on Artificial Intelligence, Automation and Control Technologies (AIACT 2018)"
 
 abstract: Aiming at the severe requirement of landing terrain environment for UAVs, especially large UAVs, an adaptive landing gear is designed in this paper. The control system and PID controller based on attitude feedback, height feedback, and force feedback are designed synthetically using high precision force sensor, attitude sensor, and laser ranging sensor. The SIMULINK model is built in MATLAB and debugged in the actual system. The simulation and physical experiments show that the control system in this paper has the characteristics of good control robustness and fast response speed, which provides a beneficial attempt for the engineering application of adaptive landing gear.
 
