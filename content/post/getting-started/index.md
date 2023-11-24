@@ -28,6 +28,11 @@ featured: false
 #   placement: 2
 #   preview_only: false
 
+image:
+  filename: featured.jpg
+  focal_point: Smart
+  preview_only: true
+
 # authors:
 #   - admin
 #   - 吳恩達
