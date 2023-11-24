@@ -9,7 +9,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2022-08-20T00:00:00Z"
-doi: "10.1088/1742-6596/1061/1/012019"
+doi: "https://www.nagoya-mipe2022.org/"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-08-20T00:00:00Z"
@@ -21,7 +21,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "JSME-IIP/ASME-ISPS Joint International Conference on Micromechatronics for Information and Precision Equipment (MIPE 2022)"
-publication_short: "*JSME-IIP/ASME-ISPS Joint International Conference on Micromechatronics for Information and Precision Equipment (MIPE 2022)*"
+publication_short: "JSME-IIP/ASME-ISPS Joint International Conference on Micromechatronics for Information and Precision Equipment (MIPE 2022)"
 
 abstract: The purpose of this study is to develop a control method for walking assistive robot that enables the elderly to keep positive emotions and maintain high levels of motivation during exercise. In this study, a control method based on emotion recognition and fatigue detection was proposed. We used brainwave and heartbeat signals to train a deep neural network (DNN) model to recognize human emotions. Portable near-infrared spectroscopy (NIRS) was used to detect muscle fatigue. Furthermore, we established a 3D human state model to evaluate the user’s emotional and fatigue states. We also performed experiments to evaluate the ability of the control method to improve the effect of walking exercise.
 
