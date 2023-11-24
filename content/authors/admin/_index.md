@@ -31,10 +31,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Human-Robot Interaction
-  - Wearable Technology
+  - Human-computer Interaction
   - Human Augmentation
-  - Telepresence
   - Bioinspired Robotics
 
 # Education to show in About widget
@@ -109,7 +107,7 @@ social:
 highlight_name: true
 ---
 
-Hello, my name is Mingyang Xu, a researcher with a passion for creating a world where humans, robots, and cybernetic avatars coexist harmoniously. 
+Hello, my name is Mingyang Xu. 
 
 I received my Master’s Degree in Information, Production and Systems Engineering from **Waseda University**, Japan. My Bachelor’s Degree was obtained in Mechanical Engineering with Excellent Graduate Honor from **Beihang University**, China. My research interests include Human-Robot Interaction, Wearable Technology, and Bioinspired Robotics. 
 {style="text-align: justify;"}
