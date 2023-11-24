@@ -211,19 +211,19 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: Human-robot Interaction
-          tag: Human-robot Interaction
-        - name: Robot Control
-          tag: Robot Control
-        - name: Programming
-          tag: Programming
-        - name: Human Augmentation & Assistance
-          tag: Exoskeleton
-        - name: Bioinspired Robotics
-          tag: Bioinspired Robotics
-        - name: Flying Robotics
-          tag: Aerial Robotics
+      #buttons:
+      #  - name: Human-robot Interaction
+      #    tag: Human-robot Interaction
+      #  - name: Robot Control
+      #    tag: Robot Control
+      #  - name: Programming
+      #    tag: Programming
+      #  - name: Human Augmentation & Assistance
+      #    tag: Exoskeleton
+      #  - name: Bioinspired Robotics
+      #    tag: Bioinspired Robotics
+      #  - name: Flying Robotics
+      #    tag: Aerial Robotics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
